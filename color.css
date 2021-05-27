@@ -21,7 +21,7 @@ h1{
 }
 .top-banner{
  
-    background-image: url("C:/Web Deveopment/project 1/developer-portfolio/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -36,7 +36,7 @@ section{
     font-weight: bold;
 }
 .dream-area{
-    background-image: url("C:/Web Deveopment/project 1/developer-portfolio/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -51,7 +51,7 @@ h3{
 }
 
 .experience-area{
-    background-image: url("C:/Web Deveopment/project 1/developer-portfolio/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 
